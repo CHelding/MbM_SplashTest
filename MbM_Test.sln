@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MbM_Test", "Assembly-CSharp-firstpass.csproj", "{FF017462-4288-8195-1F3A-15FA1D227B60}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MbM_Test", "Assembly-CSharp.csproj", "{B3DF2915-B1E8-375A-C2C6-FFD433DA4DEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MbM_Test", "Assembly-CSharp-Editor.csproj", "{9E9224F1-6637-F3DB-15A2-8F22EF002F70}"
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF017462-4288-8195-1F3A-15FA1D227B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF017462-4288-8195-1F3A-15FA1D227B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF017462-4288-8195-1F3A-15FA1D227B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF017462-4288-8195-1F3A-15FA1D227B60}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B3DF2915-B1E8-375A-C2C6-FFD433DA4DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B3DF2915-B1E8-375A-C2C6-FFD433DA4DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3DF2915-B1E8-375A-C2C6-FFD433DA4DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
